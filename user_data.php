@@ -1,10 +1,10 @@
 <?php
 
-//print
+//store data
 $user_data = $_POST;
 
 
-//file location
+//store file location
 $csv_file = "userdata.csv";
 
 //open file
